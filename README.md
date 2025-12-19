@@ -64,6 +64,8 @@ Project Workflow:
 
 5. Created interactive dashboards to visualize skill demand, salary trends, and job locations
 
+---
+
 Key Insights:
 
 Top Skills: Python and SQL dominate job postings, highlighting their demand
